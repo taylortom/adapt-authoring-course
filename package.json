@@ -1,0 +1,21 @@
+{
+  "name": "adapt-authoring-course",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/taylortom/adapt-authoring-course",
+  "main": "index.js",
+  "adapt_authoring": {
+    "module": true,
+    "documentation": {
+      "enable": true,
+      "includes": {
+        "source": "lib/*",
+        "docs": "docs/*"
+      }
+    }
+  },
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/taylortom/adapt-authoring-core.git",
+    "adapt-authoring-content": "git+https://github.com/taylortom/adapt-authoring-content.git"
+  }
+}
