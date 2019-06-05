@@ -1,8 +1,8 @@
 {
-  "name": "adapt-authoring-course",
+  "name": "adapt-authoring-courses",
   "version": "0.0.1",
   "description": "",
-  "homepage": "https://github.com/taylortom/adapt-authoring-course",
+  "homepage": "https://github.com/taylortom/adapt-authoring-courses",
   "main": "index.js",
   "adapt_authoring": {
     "module": true,
